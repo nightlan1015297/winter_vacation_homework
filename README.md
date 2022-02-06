@@ -1,8 +1,3 @@
----
-title: Winter vacation HW
-tags : Phys , Experimental physics and method
----
-
 > Dear all,
 > &emsp; Your winter vacation homework is to simulate RLC circuit with Python,
 > and a preview of  Runge-Kutta methods (RK4).
